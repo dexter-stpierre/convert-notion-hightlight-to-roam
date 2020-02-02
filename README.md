@@ -10,8 +10,9 @@ Currently the script only works on a single file. I plan to update it to be able
 
 ## Use:
 
-1. Clone this repo
-2. Navigate to the root directory of the project
-3. Run `npm i`
-4. Run `npm run build`
-5. Run `node converter.js FILEPATH` replacing `FILEPATH` with the path to your file
+1. Export the page from Notion as html
+2. Clone this repo
+3. Navigate to the root directory of the project
+4. Run `npm i`
+5. Run `npm run build`
+6. Run `node converter.js FILEPATH` replacing `FILEPATH` with the path to your file
